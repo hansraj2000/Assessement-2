@@ -2,6 +2,7 @@ create database AssessmentDB;
 
 use AssessmentDB;
 
+-- Question 1:-
 CREATE TABLE runners(
 	Id int,
     name varchar(100)
